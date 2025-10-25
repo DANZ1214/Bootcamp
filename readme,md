@@ -1,0 +1,49 @@
+# 🚀 BootCamp
+
+![License](https://img.shields.io/badge/license-MIT-green) ![Version](https://img.shields.io/badge/versi%C3%B3n-1.0.0-blue)
+
+Una breve descripción (1 o 2 líneas) de lo que hace tu proyecto. Explica el problema que resuelve.
+
+## ✨ Características Principales
+
+* **Característica 1:** Descripción de lo que hace.
+* **Característica 2:** Descripción de lo que hace.
+* **Característica 3:** Descripción de lo que hace.
+
+## 📸 Capturas de Pantalla
+
+(Aquí es un lugar genial para poner una imagen o GIF)
+
+![Screenshot del Proyecto](https://via.placeholder.com/600x300.png?text=Aqu%C3%AD+va+la+captura+de+tu+proyecto)
+
+## 🔧 Tecnologías Utilizadas
+
+* [HTML](https://developer.mozilla.org/es/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/es/docs/Web/CSS)
+* [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+* [Node.js](https://nodejs.org/) (Si usaste backend)
+* [MySQL](https://www.mysql.com/) (Si usaste base de datos)
+
+## ⚙️ Instalación
+
+Sigue estos pasos para levantar el proyecto localmente:
+
+1.  Clona el repositorio:
+    ```bash
+    git clone [https://URL-DE-TU-REPOSITORIO.git](https://URL-DE-TU-REPOSITORIO.git)
+    ```
+2.  Navega a la carpeta del proyecto:
+    ```bash
+    cd nombre-del-proyecto
+    ```
+3.  Instala las dependencias (ejemplo con npm):
+    ```bash
+    npm install
+    ```
+
+## ▶️ Modo de Uso
+
+Una vez instalado, puedes correr el proyecto con:
+
+```bash
+npm run dev
